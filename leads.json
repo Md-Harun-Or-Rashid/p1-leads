@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1762363800558",
+    "name": "Testing",
+    "email": "testing@gmail.com",
+    "company": "Testi.co",
+    "source": "online",
+    "notes": "new",
+    "status": "Contacted",
+    "createdAt": "2025-11-05T17:30:00.558Z"
+  },
+  {
+    "id": "1762363860626",
+    "name": "Testing 2",
+    "email": "testing@gmail.com",
+    "company": "Testi.co",
+    "source": "online",
+    "notes": "ok",
+    "status": "Qualified",
+    "createdAt": "2025-11-05T17:31:00.626Z"
+  },
+  {
+    "id": "1762704383387",
+    "name": "Harun Rashid",
+    "email": "harun.rashid@student.fi",
+    "company": "Laurea",
+    "source": "Online",
+    "notes": "Student ",
+    "status": "Contacted",
+    "createdAt": "2025-11-09T16:06:23.388Z"
+  }
+]

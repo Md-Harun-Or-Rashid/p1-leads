@@ -1,0 +1,4 @@
+# Directories and files to exclude from version control
+node_modules/ // Ignores the entire 'node_modules' directory, which contains thousands of temporary dependencies.
+.DS_Store // Ignores macOS system files that store custom folder views and metadata.
+.env // Ignores the environment file where actual secret keys and configuration are stored for local use.
