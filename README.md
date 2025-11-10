@@ -59,7 +59,25 @@ project-name: Micro CRM Leads Tracker
 ![Data Validation Email Address Required](images/DataValidationEmailAddressRequired%20.png)
 
 
+# 📦 How to Clone & Run Locally
 
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Git (for cloning the repository)
+
+## 🚀 Setup Instructions (Windows)
+
+Open PowerShell or CMD and run the following commands:
+
+```bash
+git clone https://github.com/Md-Harun-Or-Rashid/p1-leads.git
+cd p1-leads
+npm install      # Install dependencies
+npm start        # Starts the server (http://localhost:3000)
+code .           # Open the project in Visual Studio Code
+``` 
 
 ## 🧠 Self Assessment and Reflection
 
@@ -69,5 +87,5 @@ In the HTML form, the `required` attribute prevents incomplete submissions, whil
 
 I learned modern JavaScript features including `async/await`, `FormData`, and `Object.fromEntries`. I found the `async/await` feature crucial for this application, as it allows asynchronous functions to wait for server responses without freezing the entire program. The `FormData` feature collects form input efficiently, and `Object.fromEntries` converts that data into a usable JavaScript object.
 
-Throughout the project, I developed a deeper understanding of how data flows from the frontend to the backend and how it is stored in the JSON file.
+Throughout the project, I developed a deeper understanding of how data flows from the frontend to the backend and how it is stored in the JSON file. For future development, a delete button could be added to each lead, the ability to view and edit them separately can be implemented . Though I find this project is similar to Todo List App, the knowledge I gained from it will be valuable for many other projects in the future.
 
