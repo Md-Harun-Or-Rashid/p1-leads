@@ -78,6 +78,8 @@ npm install      # Install dependencies
 npm start        # Starts the server (http://localhost:3000)
 code .           # Open the project in Visual Studio Code
 ``` 
+## Live Deployment
+Live: https://p1-leads-34ja.onrender.com  # The public URL where the live application can be accessed.
 
 ## 🧠 Self Assessment and Reflection
 
